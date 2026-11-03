@@ -2,7 +2,7 @@
 
 Checkout de contratación digital de seguro de celular. HTML5, Tailwind CSS v4 (CDN), Basecoat UI y JavaScript vanilla (sin frameworks).
 
-**Sitio publicado:** _pegar URL_
+**Sitio publicado:** https://cseguros.netlify.app
 
 ## Cómo ejecutarlo
 
